@@ -8,6 +8,7 @@ Before you follow the steps in Reporting Procedure listed below, please make sur
 
 The reporting procedure will be as follow:
 1. Submit bug report by sending an email with subject: **[AIRY-BUG-BOUNTY] Short description of the bug/vulnerability**. The content of the email should be as follow:
+   * **CVSS v3 Score**. Please follow the guideline described at https://www.first.org/cvss/specification-document and provide a link using the CVSS Calculator (https://www.first.org/cvss/calculator/3.0#CVSS:3.0/) containing the scoring metrics. For example: https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N/E:H/RL:O/RC:C
    * **_[Attachment] Bug Reporting Document_**. You can download the provided bug reporting document template via this [(Bug Reporting Document)](./files/bug-reporting-template.docx). 
    * **_[Attachment] Vulnerability Demonstration Video_**. You can provide a private accessible or upload & attach the demonstration video in the email. **_You are not advised to put the video via YouTube, or any public video space. The video should have hosted in private and should have its access control list open for email bug@airyrooms.com_**. This video is intended to help and assist us in reproducing the issue when we are conducting the investigation
 
